@@ -21,11 +21,14 @@
  
  ## Email Address
  
- I'm currently looking for small projects for beginners in front end development. If you are looking for someone to mould and train up as a front end developer. Please feel free to reach me on my email address [### lillianrosiegarden@gmail.com]
+ I'm currently looking for small projects for beginners in frontend development. If you are looking for someone to mould and train up as a front end developer. Please feel free to reach me on my email address lillianrosiegarden@gmail.com
+ 
+************************************************************************************************************************************************************
+ ## Please click here to visit My Portfolio
  
  
  
- 
+**************************************************************************************************************************************************************
  
 
 
